@@ -2,24 +2,19 @@
 layout: default
 ---
 
-<div class="home">
 
-    {{ content }}
+{{ content }}
 
-    <ul class="post-list">
-        {% for post in site.posts %}
-        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+{% if site.posts.size > 0 %}
+
+{% for post in site.posts %}
+<h2 class="is-size-3 is-marginless ">{{ post.title | escape }}</h2>
+{% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+<p class="is-size-5">{{ post.date | date: date_format }}</p>
 
 
-        <h3 class="is-size-2">
-            <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-            <span class="is-size-5">({{ post.date | date: date_format }})</span>
-        </h3>
-        {{ post.excerpt }}
+{{ post.content }}
+{% endfor %}
 
-        {% endfor %}
-    </ul>
-
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
-
-</div>
+<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+{% endif %}
