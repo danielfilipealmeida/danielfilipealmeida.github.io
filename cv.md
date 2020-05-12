@@ -7,15 +7,48 @@ permalink: /cv/
 
 ## Professional Summary
 
-I have eight years of professional experience as a Fullstack Webdeveloper, mostly in programming in PHP, three of them with the CakePHP Framework. Also one year of professional experience with Angular.js and Node.js.
+* Fourteen years professional experience as a Full Stack Web Developer
 
+* Two years experience with the Symfony Framework
+ 
+* Two Year experience with Angular.js, Node.js and Express.js. 
+
+* Worked in the Entertainment, Hospitality, Digital Signage, Marketing Resource Management and E-commerce Industries,
+
+* Multimedia software developer hobbyist, Vj and musician.
+    
+    
+## Buzzwords and Skills
+
+- **Languages:** PHP, Javascript, CoffeeScript, Python, Sass, C, C++, Objective C, Swift
+  
+- **Javascript:** Node.js, Express.js, Hapi.js, Angular.js, React.js, Vue.js, Sequelize.js, Gulp, Karma, Mocha
+  
+- **PHP:** Symfony Framework, CakePHP, PHPUnit, Typo3, Spryker, Oro Commerce
+
+- **Databases:** MySQL/MariaDB, PostgresSQL
+  
+- **Libraries:** OpenGL, OpenFrameworks, Juce
+  
+- **Vj and Music:** Resolume Arena and Ableton Live
+  
+- *Agile, Tester, Version controlled!*
+    
 ## Work Experience
 
-### Turbine Kreuzberg / Votum (previously) (2017)
+### Freelance Software Consultant (2019)
+
+#### Senior PHP Developer at RL Datix 
+
+Development and maintenance of two Patient Safety Solutions in PHP. 
+
+### Turbine Kreuzberg / Votum (previously) (2017-2019)
 
 #### Senior PHP Developer
 
-* Typo3 developer.
+* Development of B2B and B2C E-commerce shops and websites using: Oro Commerce, Spryker, Typo3 CMS, Symfony and Vue.js
+
+* Several high profile projects completed in different Portuguese-German agile teams
 
 ### ContentServ AG / Frinch AG (previously) (2016 - 2017)
 
@@ -73,26 +106,13 @@ Automatic analysis and classification of marine specimens software.
 
 #### Computer Graphics and Signal and Image Processing Tutor
 
-* Prepared and taught the practical lessons of the courses.
-Communication with the head of the course and the students.
+* Teaching of practical lessons of the courses.
+
 
 ## Education
 
 B.Eng. In Systems and And Computing - University of the Algarve (1996 - 2004)
-
-
-
-
-## Buzzwords and Skills
-
-* Full Stack Web Developer and Desktop Applications Developer.
-* Senior PHP Developer and three years of experienced with the CakePHP Framework.
-* One year of professional experience in the MEAN (Mysql, Express.js, Angular.js, Node.js) stack.
-* Mac OS X software development enthusiast.
-* Linux and Mac user.
-* Experience working in a distributed team with Agile Methodologies (Scrum and Kanban).
-* Computer game and real-time video applications development hobbyist.
-
+s
 
 ## More Links
 * http://arbutus.danielfilipea.net
