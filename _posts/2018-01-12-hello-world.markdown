@@ -3,12 +3,17 @@ layout: post
 title:  "Hello world"
 date:   2018-01-12
 categories: rants
+tags: [beginning, hello-world, music]
+intro: "This is the first post... blah blah blah... about the website and an old track of mine"
+excerpt_separator: <!--more-->
 ---
 
 This is the first post... The same old story. Hello world. Anyone there? Do you copy? Is the message loud and clear?
 
 There isn't much of a plan for this blog, no special schedule or direction. It probably will be a bunch of random rants and 
 posts about stuff that I've been up to, or wanting to be up to, or dreaming of being up too...
+
+<!--more-->
 
 And in between, maybe some actual stuff I did, like some software I'm building on my spare time (GitHub link on the footer),
 a tutorial about something I've learned, a new track (like the one embedded), some video I did for something (occasionally I do VJ, but not as much as before)...

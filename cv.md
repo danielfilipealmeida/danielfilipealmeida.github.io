@@ -36,13 +36,19 @@ permalink: /cv/
     
 ## Work Experience
 
-### Freelance Software Consultant (2019)
 
-#### Senior PHP Developer at RL Datix 
+### Cavaco & Coquet (2019 – present)
 
-Development and maintenance of two Patient Safety Solutions in PHP. 
+C&C is a new consulting company based in Faro that services a growing number of international players on diverse industries such as Patient Safety and Analytics.
+
+#### Senior PHP Contractor at RLDatix
+   
+* Team member maintaining developing and testing two Patient Safety solutions for an international company
+
 
 ### Turbine Kreuzberg / Votum (previously) (2017-2019)
+
+Turbine Kreuzberg (previously Votum) is a German digital agency, specialized on E-commerce solutions.
 
 #### Senior PHP Developer
 

@@ -18,7 +18,7 @@ email: danielf.almeida@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Personal website about programming, making music and visual arts.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://danielfilipea.net" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: danielfilipea
 github_username:  danielfilipealmeida
 show_excerpts: true
