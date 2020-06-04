@@ -39,3 +39,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
+google_analytics: UA-65888782-1
